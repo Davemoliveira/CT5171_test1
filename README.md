@@ -8,4 +8,9 @@ Changed in IntelliJ
 New change done within Github interface.
 
 
-another change done throught the Github GUI.
+
+
+IntelliJ change (baah)
+
+Conflict resolved
+another change done throught the Github GUId...muhahaha
