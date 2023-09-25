@@ -6,3 +6,6 @@ Changed in IntelliJ
 
 
 New change done within Github interface.
+
+
+another change done throught the Github GUI.
